@@ -10,6 +10,7 @@ Skills:
 
 
 Socials:
+ https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg
 
 <!--
 **Jacob-Vance/Jacob-Vance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
