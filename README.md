@@ -1,5 +1,7 @@
 ### Hi there 👋 My name is Jacob Parry
 I am UNA college student majoring in CIS, however I was originally an accounting major. After taking many CIS and IT classes throughout my time at UNA I learn how much I enjoy coding.
+
+
 More about myself:
 - 🌍 I'm based in Tenneessee and North Alabama
 - 🔭 I’m currently working on my degree in Computer Info Systems
